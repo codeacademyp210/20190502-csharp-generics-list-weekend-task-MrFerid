@@ -1,0 +1,11 @@
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\bin\Debug\RegisterForm.exe.config
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\bin\Debug\RegisterForm.exe
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\bin\Debug\RegisterForm.pdb
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csprojAssemblyReference.cache
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Form1.resources
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Properties.Resources.resources
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.GenerateResource.cache
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\obj\Debug\RegisterForm.exe
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\obj\Debug\RegisterForm.pdb
+C:\Users\santa\OneDrive\Desktop\RegisterFormV2\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Form2.resources
